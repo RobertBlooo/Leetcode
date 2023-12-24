@@ -1,0 +1,3 @@
+LeetCode Prcactice
+
+Easy First
